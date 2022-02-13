@@ -1,3 +1,11 @@
+# Fourdle
+
+A NSFW variant of the popular word guessing game we all know and love. Built using [React Wordle](https://github.com/cwackerfuss/react-wordle).
+
+[**Play it here**](https://fourdle.com/)
+
+---
+
 # React Wordle
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
